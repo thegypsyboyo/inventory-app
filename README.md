@@ -1,6 +1,6 @@
 # Inventory Manager
 
-![demo](/assets/Capture.PNG)
+![demo](https://i.ibb.co/nbFZs59/Capture.png)
 
 
 ## 🌐 Live Demo
