@@ -8,7 +8,7 @@ const Header = () => {
         <div className='row flex items-center flex-nowrap '>
             <div className='lg:w-1/2 w-full'>
                 <div className='w-full '>
-                <h1 className="text-[42px] leading-[60px] font-semibold  text-white ">The Best Electronics Shop For Online Purchase</h1>
+                <h1 className="text-[42px] leading-[60px] font-extrabold  text-white ">The Best Inventory Manager For Online Business</h1>
                 <p className="py-6 text-[#e3e8ff] text-base font-normal"> With a commitment to excellence, this electronic shop has curated a diverse range of cutting-edge gadgets, devices, and accessories to cater to the diverse needs and preferences of tech enthusiasts.</p>
 
                 <Link href="" className='bg-[#4f46e5] rounded-[3px] border-none font-semibold text-white py-[10.5px] px-[36px] mt-3'>Shop Now</Link>

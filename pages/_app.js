@@ -2,6 +2,8 @@ import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
 import "@/styles/globals.css";
 import Head from "next/head";
+import { AuthUserProvider } from "@/firebase/auth"
+
 
 export default function App({ Component, pageProps }) {
  
@@ -11,11 +13,13 @@ export default function App({ Component, pageProps }) {
       <Head>
         <title>Inventory manager | Home</title>
       </Head>
+      <AuthUserProvider>
       <Navbar/>
-      <main>
-      <Component {...pageProps} />
-      </main>
-      <Footer/>
+        <main className="min-h-screen">
+          <Component {...pageProps} />
+        </main>
+        <Footer/>
+      </AuthUserProvider>
     </>
   );
 }
