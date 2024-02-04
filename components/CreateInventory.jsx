@@ -58,7 +58,7 @@ export function ProfileForm() {
           // Extract the data from each invt document and add it to the data array.
           let data = [];
           querySnapshot.forEach((invt) => {
-              console.log(invt);
+              // console.log(invt);
               data.push({ ...invt.data(), id: invt.id });
           });
   
