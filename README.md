@@ -1,9 +1,11 @@
 # Inventory Manager
 
+![demo](https://i.ibb.co/nbFZs59/Capture.png)
+
 
 ## 🌐 Live Demo
 
-Explore the live demonstration of the project: [nextjs14-MetaDevs](https://metadevs.vercel.app/)
+Explore the live demonstration of the project: [nextjs14-MetaDevs](https://meta-inventory.vercel.app/)
 
 ## Description
 
@@ -23,3 +25,20 @@ Explore the live demonstration of the project: [nextjs14-MetaDevs](https://metad
 - [Vercel](https://vercel.com/): Vercel is a cloud platform for frontend developers, providing the frameworks, workflows, and infrastructure to build a faster, more personalized Web.
 
 [![Technologies Used](https://skillicons.dev/icons?i=nextjs,js,tailwind,firebase,vercel)](https://skillicons.dev)
+
+
+## How To Run The Project
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
