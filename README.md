@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-Explore the live demonstration of the project: [nextjs14-MetaDevs](https://meta-inventory.vercel.app/)
+Explore the live demonstration of the project: [Meta Inventory App](https://meta-inventory.vercel.app/)
 
 ## Description
 
