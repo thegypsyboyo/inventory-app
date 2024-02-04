@@ -16,7 +16,6 @@ import NoResults from './NoResults'
 
 
 const Inventory = ({ inventories, deleteInventory}) => {
-  // console.log("Inventory:", inventories)
   
   return (
     <div className='mt-8 py-9 container'>
