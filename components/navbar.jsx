@@ -74,7 +74,7 @@ const Navbar = () => {
 
           <span className='text-base font-bold flex flex-col'>
           {`Hi, ${authUser.username}`}
-          <span className=' font-semibold'>Welocme back!</span>
+          <span className=' font-semibold'>Welcome back!</span>
           </span>
           <div>
           <div
