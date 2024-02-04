@@ -1,6 +1,7 @@
 # Inventory Manager
 
 ![demo](https://i.ibb.co/nbFZs59/Capture.png)
+![demo](https://i.ibb.co/85nSwSJ/Capture.png)
 
 
 ## 🌐 Live Demo
